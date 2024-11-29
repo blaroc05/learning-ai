@@ -1,6 +1,8 @@
 
 # Learning AI - Tutorials Repository
 
+<img alt="learning_ai" src="https://github.com/user-attachments/assets/6b6c4542-31c1-4565-bf9e-a3a1dab7dcd8">
+
 Welcome to the **Learning AI** repository! This project is a collection of tutorials aimed at helping you understand and implement artificial intelligence concepts from scratch. The tutorials cover a variety of topics, providing hands-on coding examples, explanations, and step-by-step guides to build AI models and algorithms.
 
 ## Repository Structure
